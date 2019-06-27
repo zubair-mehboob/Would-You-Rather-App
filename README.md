@@ -1,7 +1,7 @@
 # Would You Rather
 
-Web app version of the game *"Would You Rather?"*
-developed as part of the [Udacity React Nanodegree Program](https://www.udacity.com/course/react-nanodegree--nd019).
+Web app version of the game _"Would You Rather?"_
+developed as part of the Udacity React Nanodegree Program
 
 The primary purpose for developing [Would You Rather](https://would-you-rather-reactnd.herokuapp.com/) was to gain
 exposure to React & Redux, thus core functionality such as
@@ -29,7 +29,7 @@ Clone the repo
 git clone git@github.com:bigbhowell/would-you-rather.git
 ```
 
-Change into the *would-you-rather* project directory
+Change into the _would-you-rather_ project directory
 
 ```
 cd would-you-rather
